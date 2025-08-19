@@ -13,7 +13,7 @@ origins = [
     "http://127.0.0.1:5500",
     "http://localhost:5500",
     "https://emailspamham.azurewebsites.net",
-    "https://mlops19-dtbbg8a7fdh5fads.centralindia-01.azurewebsites.net",
+    "https://mymodel-mlops-auhdbeesdkh3c8af.centralindia-01.azurewebsites.net",
 ]
 
 app.add_middleware(
